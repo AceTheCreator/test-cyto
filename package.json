@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cytoscape": "3.23.0",
+    "cytoscape-dagre": "2.5.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0",
+    "reactflow": "11.3.3"
+  },
+  "main": "/index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "name": "reactflow-cytoscape-dagre-forked",
+  "description": null,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
